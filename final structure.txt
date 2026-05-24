@@ -1,0 +1,18 @@
+Emergency-Crowd-SOS-System/
+
+app.py
+requirements.txt
+train_model.py
+
+models/
+└── emergency_model.pkl
+
+datasets/
+└── emergency_data.xlsx
+
+database/
+└── users.db
+
+templates/
+static/
+README.md
